@@ -1,0 +1,16 @@
+.bg-primary {
+    background-color: #72a2ff !important;
+}
+.btn-primary {
+    color: #ffffff;
+    background-color: #6892ff !important;
+    border-color: #6892ff;
+}
+.btn-primary:hover {
+    color: #ffffff;
+    background-color: #84c7ff !important;
+    border-color: #6892ff;
+}
+.phone {
+    width: 414px;
+}
